@@ -1,0 +1,62 @@
+git --version
+git config --global user.name "Debbroto"
+git config --global user.email"debkk20@gmail.com"
+git config --global user.email"debkk20@gmail.com"
+git config username.name
+git config user.email
+ 
+ cd ..
+cd c:
+pwd
+ls
+cd learngit   // learngit folder name
+
+ctrl + l clear all
+
+ mkdir notes  // make new dir/folder
+
+$ cd notes
+
+ ls -a  // shoe hidden file
+
+git init
+
+touch day1.txt  // make file here day1 is name
+
+start day1.txt // open git file
+
+git status
+
+git add day1.txt
+
+ git diff
+
+git restore day1.txt
+git add day1.txt
+
+git commit -m "add 1st time"
+
+git log
+git add . && git commit -m"add"
+
+
+git reset --hard HEAD^
+
+git reset --soft HEAD^
+ git reset HEAD ^
+
+git show
+git log --oneline
+git show f6e4c5f
+
+git checkout a8e1c19
+git checkout master
+
+
+
+
+
+
+
+
+
